@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "test_session9",
-      "setup": "sudo -H pip3 install pytest",
+      "setup": "sudo -H pip3 install pytest", "sudo -H pip3 install pandas"
       "run": "pytest",
       "input": "",
       "output": "",
