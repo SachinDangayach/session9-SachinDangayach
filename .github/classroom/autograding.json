@@ -1,14 +1,14 @@
 {
   "tests": [
     {
-      "name": "test_session3",
+      "name": "test_session9",
       "setup": "sudo -H pip3 install pytest",
       "run": "pytest",
       "input": "",
       "output": "",
       "comparison": "included",
-      "timeout": 10,
-      "points": 190
+      "timeout": 50,
+      "points": 900
     }
   ]
 }
