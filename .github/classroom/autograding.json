@@ -10,15 +10,5 @@
       "timeout": 10,
       "points": 190
     }
-    {
-      "name": "test_session4",
-      "setup": "sudo -H pip3 install pandas",
-      "run": "pytest",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 190
-    }
   ]
 }
